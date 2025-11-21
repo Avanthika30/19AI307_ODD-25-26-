@@ -3,28 +3,9 @@
 ## QUESTION:
 Lovely finds an ancient vault secured by binary locks. Each lock responds to bitwise operations to determine whether it opens or stays shut.
 
-To unlock the vault, she is given two integers that represent key codes in binary. The vault uses the following bitwise operations to test them:
-
-Lock Test                           Operator
-Bitwise AND                           &
-Bitwise OR                            |
-Bitwise XOR                           ^
-Left Shift first key by 1             <<
-Right Shift second key by 1           >>
+To unlock the vault, she is given two integers that represent key codes in binary. 
 
 She needs to apply these operations and report the results.
-
-Input Format:
-First line: First key (integer)
-
-Second line: Second key (integer)
-
-Output Format:
-Bitwise AND: <result>
-Bitwise OR: <result>
-Bitwise XOR: <result>
-First Key << 1: <result>
-Second Key >> 1: <result>
 
 ## AIM:
 To write a Java program that accepts two integer key codes and performs bitwise operations—AND, OR, XOR, left shift of the first key, and right shift of the second key—and displays the results in the specified format to simulate the unlocking mechanism of an ancient vault.
@@ -72,3 +53,4 @@ class prog{
 
 ## RESULT:
 Thus,the bitwise operation results for the two given keys were displayed successfully.
+
