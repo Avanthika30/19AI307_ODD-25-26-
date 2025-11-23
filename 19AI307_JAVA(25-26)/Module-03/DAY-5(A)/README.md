@@ -11,29 +11,22 @@
 2.	Import the necessary package 'java.util'
 3.	
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: 
-RegisterNumber:  
+Developed by: AVANTHIKA.B
+RegisterNumber: 212224040039 
 */
 ```
 
 ## SOURCE CODE:
+```
 
-
-
-
-
-
-
+```
 ## OUTPUT:
 
 
 
 ## RESULT:
+
